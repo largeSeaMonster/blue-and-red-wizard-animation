@@ -1,0 +1,163 @@
+body{
+  background-color:           rgb(194, 75, 85);
+}
+
+#screen {
+    position: relative;    
+}
+
+#whiteBackground, #redWizPc, #blueWizNpcWithoutArmsOrArchimedes, #blueWizNpcDefaultLeftArm, #blueWizNpcDefaultRightArm, #redWizPcDefendLeft,
+#blueWizNpcAttackLeft, #star_1, #star_2, #star_3, #star_4, #star_5, #magicMissileCondensation_0, #magicMissileCondensation_1, #magicMissileCondensation_2, 
+#magicMissileCondensation_3, #magicMissileCondensation_4, #magicMissileCondensation_5, #blueWizNpcAttackLeftClench, #magicMissile_0, #magicMissile_1, #magicMissile_2,
+#magicMissile_3, #magicMissileDefendedLeftNpc, #magicMissileDefendedSplosion, #redWizPcDefendRight, #magicMissileSplosion, #redWizPcStruckLeft {
+    position: absolute;    
+}
+
+#whiteBackground {
+  left: 685px;
+}
+
+#redWizPc {
+  left: 802px;
+  top: 600px;
+  z-index: 1000;
+}
+
+#blueWizNpcWithoutArmsOrArchimedes {
+  left: 859px;
+  top: 2px;
+}
+
+#blueWizNpcDefaultLeftArm {
+  left: 882px;
+  top: 169px;
+}
+
+#blueWizNpcDefaultRightArm {
+  left: 999px;
+  top: 156px;
+}
+
+#redWizPcDefendLeft {
+  left: 805px;
+  top: 614px;
+  z-index: 999;
+}
+
+#blueWizNpcAttackLeft {
+  left: 853px;
+  top: 170px;
+}
+
+#star_1 {
+  left: 832px;
+  top: 153px;
+}
+
+#star_2 {
+  left: 832px;
+  top: 140px;
+}
+
+#star_3 {
+  left: 811px;
+  top: 152px;
+}
+
+#star_4 {
+  left: 812px;
+  top: 153px;
+}
+
+#star_5 {
+  left: 813px;
+  top: 154px;
+}
+
+#magicMissileCondensation_0 {
+  left: 815px;
+  top: 154px;
+}
+
+#magicMissileCondensation_1 {
+  left: 830px;
+  top: 163px;
+}
+
+#magicMissileCondensation_2 {
+  left: 842px;
+  top: 177px;
+}
+
+#magicMissileCondensation_3 {
+  left: 867px;
+  top: 191px;
+}
+
+#magicMissileCondensation_4 {
+  left: 880px;
+  top: 206px;
+}
+
+#magicMissileCondensation_5 {
+  left: 888px;
+  top: 216px;
+}
+
+#blueWizNpcAttackLeftClench {
+  left: 856px;
+  top: 170px;
+}
+
+#magicMissile_0 {
+  left: 874px;
+  top: 219px;
+}
+
+#magicMissile_1 {
+  left: 847px;
+  top: 264px;
+}
+
+#magicMissile_2 {
+  left: 825px;
+  top: 353px;
+}
+
+#magicMissile_3 {
+  left: 803px;
+  top: 473px;
+}
+
+#magicMissileDefendedLeftNpc {
+  left: 744px;
+  top: 414px;
+}
+
+#magicMissileDefendedSplosion {
+  left: 685px;
+  top: 430px;
+}
+
+#redWizPcDefendRight {
+  left: 1009px;
+  top: 623px;
+}
+
+#magicMissileSplosion {
+  left: 681px;
+  top: 610px;
+}
+
+#redWizPcStruckLeft {
+  left: 773px;
+  top: 595px;
+}
+
+.visible {
+  visibility: visible;
+}
+
+.hidden {
+  visibility: hidden;
+}
